@@ -1,0 +1,12 @@
+win2012.buzztaiki.ec2:
+  :user: Administrator
+  :roles:
+    - base
+win2008r2.buzztaiki.ec2:
+  :user: Administrator
+  :roles:
+    - base
+win2008.buzztaiki.ec2:
+  :user: Administrator
+  :roles:
+    - base
