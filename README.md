@@ -1,6 +1,6 @@
 # serverspec + WinRM 手習い
 
-WinRM を使って Windows のサーバを serverspec でテストする練習。とその[メモ書き](https://gist.github.com/buzztaiki/9351224)。
+WinRM を使って Windows のサーバを serverspec でテストする練習。とその[メモ書き](https://github.com/buzztaiki/serverspec-winrm-practice/wiki)。
 
 ## 動かす
 
